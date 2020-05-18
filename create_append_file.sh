@@ -2,7 +2,7 @@
 
 touch 1.txt 2.txt
 
-pwd > 1.txt
+ls-l >> 1.txt
 
 read -p "what prefix do you want for file 1.txt? " prefix
 
