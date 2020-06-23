@@ -13,5 +13,5 @@ case $choice in
 	2)
 		echo " You chose B "
 		;;
-	*) echo "None of the above"
+	*) echo "Interesting choice"
 esac
